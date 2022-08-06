@@ -1,5 +1,5 @@
 /*
-Create a class named student with data as roll no, name, cpi, etc.
+create a class named student with data as roll no, name, cpi, etc.
 a. Create functions to display the relevant data of student class.
 b. Also write a function that can change/alter data of student class.
 */
